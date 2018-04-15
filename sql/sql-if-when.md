@@ -1,5 +1,8 @@
 ## sql -`if else`
 
+```sql
+IF(condition, value_if_true, value_if_false)
+```
 
 
 ## sql - `when case`
